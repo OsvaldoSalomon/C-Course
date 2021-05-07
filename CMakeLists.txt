@@ -3,3 +3,8 @@ project(C-Course)
 
 set(CMAKE_CXX_STANDARD 14)
 add_executable(FirstProgram FirstProgram.cpp)
+add_executable(InputOutput InputOutput.cpp)
+add_executable(Variables AreaRoom.cpp)
+add_executable(PrimitiveTypes PrimitiveTypes.cpp)
+add_executable(SizeOfOperator SizeOfOperator.cpp)
+add_executable(Constants Constants.cpp)
