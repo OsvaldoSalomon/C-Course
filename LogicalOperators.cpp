@@ -19,5 +19,4 @@ int main() {
     cout << "Enter an integer - the bounds are " << lower << " and " << upper << " : ";
     cin >> num;
 
-
 }
