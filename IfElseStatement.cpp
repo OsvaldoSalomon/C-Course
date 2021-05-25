@@ -16,5 +16,7 @@ int main() {
 
         int diff{num - min};
         cout << num << " is " << diff << " greater than " << min << endl;
+    } else {
+        cout << num << " is less than " << min << endl;
     }
 }
